@@ -2,6 +2,6 @@ package com.etovariant.perfectshots.test1;
 
 public class Test1 {
     public static void main(String[] args) {
-        System.out.println("test1 second version");
+        System.out.println("test1 third version");
     }
 }
